@@ -1,8 +1,12 @@
 # -NET-FaceExtractor
 Example using machine learning component to extract face from a picture
+
 ExtractCompleteFace: You can extract the face
+
 IsHeadBald: determine if the head is bald
+
 DetermineGender: determine the gender of the picture
+
 
 ![YO](https://github.com/user-attachments/assets/668e8065-1d40-44ba-8096-818525880d00)
 
